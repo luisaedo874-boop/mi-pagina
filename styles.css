@@ -1,0 +1,46 @@
+header {
+    padding: 60px 20px;
+}
+
+.name {
+    color: #ffe600;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    opacity: 0.9;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+.about, .projects, .contact {
+    background: rgba(255, 255, 255, 0.15);
+    margin: 30px auto;
+    max-width: 800px;
+    border-radius: 20px;
+    padding: 30px;
+    backdrop-filter: blur(10px);
+}que pag
+
+.project-card {
+    background: rgba(255, 255, 255, 0.2);
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+    width: 80%;
+}
+
+.email {
+    color: #ffe600;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+footer {
+    padding: 20px;
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
